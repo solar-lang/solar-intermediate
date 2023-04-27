@@ -11,7 +11,5 @@ type Block = Vec<Instruction>;
 
 pub enum Instruction {
     Call(String),
-    Ret(Value)
+    Ret(Value),
 }
-
-
