@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 solar-parser = {path="../solar-parser" }
+hotel = "0.1.1"                         # Collection Data-structure to associate values with keys
